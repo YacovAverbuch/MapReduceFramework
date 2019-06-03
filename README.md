@@ -1,5 +1,6 @@
 author: Yacov Averbuch
 
+This program is part of the Operating Systems course at the Hebrew university
 # Description
 
 This framework support dividing a big mapping task into small independent tasts that
@@ -16,7 +17,5 @@ of strings to find out the number of appeareince of each letter of the alpha-bai
 strings.
 
 'makefile' - to generate static library from 'MapReduceFramework.cpp'
-
-I did the effort to keep the program as short as possible
 
 
